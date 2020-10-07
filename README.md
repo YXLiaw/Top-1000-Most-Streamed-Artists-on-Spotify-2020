@@ -17,8 +17,9 @@
 ---
 After importing the data extracted from csv to data frames, I needed to clean up the data for further analysis by making the following main changes:
 - Convert stream and track count values to integers by removing unwanted characters (comma sign on numbers)
+- Create seperate data frame containing individual observations of genre for each artist
 - Concatenating multiple data frames of information on album tracks into single data frame
-- Compute follower to stream ratio for each top 1000 most streamed aritst.
+- Compute follower to stream ratio for each top 1000 most streamed aritst
 - Encoding data for several columns into categorical data
 
 **EDA**
