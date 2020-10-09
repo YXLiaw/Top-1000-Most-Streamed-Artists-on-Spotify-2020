@@ -43,7 +43,8 @@ After importing the data extracted from csv to data frames, I needed to clean up
 ![4](https://user-images.githubusercontent.com/34255556/95595150-70d38700-0a7e-11eb-9955-aa75b3cb24ff.png)
 ![5](https://user-images.githubusercontent.com/34255556/95595154-7204b400-0a7e-11eb-8723-b4186eb309db.png)
 
-
+![Followers to Streams](https://user-images.githubusercontent.com/34255556/95595692-08d17080-0a7f-11eb-889c-fa14fa89c83e.png)
+![Music Genres](https://user-images.githubusercontent.com/34255556/95595703-0bcc6100-0a7f-11eb-8021-863255e76fcc.png)
 
 **Usage**
 ---
