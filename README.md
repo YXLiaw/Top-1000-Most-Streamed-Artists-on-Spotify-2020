@@ -2,9 +2,9 @@
 
 **Background**
 ---
-As a new recent user to Spotify and a music lover in general, I am keen to search for new songs that I may find it interesting to listen to based on my own personal preference. For this project, I will be mainly focusing on the dataset for top 1000 most streamed artists on Spotify from the ChartMasters website and using Spotify's web API for data scraping.
+As a new recent user to Spotify and a music lover in general, I am keen to search for new songs that I may find it interesting to listen to based on my own personal preference (i.e songs with high energy and very suitable to dance to). For this project, I will be mainly focusing on the dataset for top 1000 most streamed artists on Spotify from the ChartMasters website and using Spotify's web API for data scraping.
 
-By doing so, this will be useful for my data analysis on the following key topics:
+By doing so, this will be useful for my data analysis on some of the following key topics:
 - Factors that makes an artist popular on Spotify
 - Audio feature analysis for favourite artists/albums
 - Overall year trend of audio features on Spotify
