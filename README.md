@@ -11,6 +11,7 @@ By doing so, this will be useful for my data analysis on some of the following k
 - Artist that has the most number of followers/streams on Spotify
 
 **Instructions for Spotify Data Scraping**
+---
 For extracting data from Spotify, the following fundamental instructions are required to get started:
 1. Go to Spotify Developer's website and create a new free account if not yet available: https://developer.spotify.com/dashboard/login
 2. Once account is created, select "Create an app" option with a random app name.
