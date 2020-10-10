@@ -39,9 +39,11 @@ After importing the data extracted from csv to data frames, I needed to clean up
 ---
 ### Most Popular Music Genres on Spotify
 ![Music Genres](https://user-images.githubusercontent.com/34255556/95596217-af1d7600-0a7f-11eb-9bd5-3251f4844877.png)
+Currently, pop music dominates the Spotify market from top 1000 most streamed artists on Spotify, followed by dance pop and pop rap as per classified by Spotify.
 
 ### Correlation heatmap for artists
 ![Artist correlation](https://user-images.githubusercontent.com/34255556/95596236-b3499380-0a7f-11eb-8b16-30271a6a6777.png)
+A strong correlation (0.89) was observed between stream count and follower count. In addition, there is a slightly higher correlation between stream count and artist popularity (0.69), compared to between follower count and artist popularity (0.61).
 
 ### Top 10 Artists with Most Followers/Streams on Spotify
 ![Followers to Streams](https://user-images.githubusercontent.com/34255556/95596212-ad53b280-0a7f-11eb-908c-53c6f3a30e63.png)
