@@ -51,7 +51,7 @@ Currently, Drake has the most number of streams on Spotify with clear majority, 
 
 ### Overall Trend of Audio Features by Year
 ![Trend of features](https://user-images.githubusercontent.com/34255556/95596227-b17fd000-0a7f-11eb-9361-680bf11da7cb.png)</p>
-Average valence (positiveness) of music tracks have been declining since 1920s. Meanwhile, there has been a steady increase in emphasis of speechiness (presence of spoken words in a track) and loudness from 1940s.
+Average valence (positiveness) of music tracks have been declining since 1920s. In contrast, there has been a steady increase in emphasis of speechiness (presence of spoken words in a track) and loudness from 1940s.
 
 ### Acousticness Distribution between Music Keys on Spotify
 ![Acousticness distribution](https://user-images.githubusercontent.com/34255556/95596206-ab89ef00-0a7f-11eb-844d-8808bf963ffb.png)</p>
